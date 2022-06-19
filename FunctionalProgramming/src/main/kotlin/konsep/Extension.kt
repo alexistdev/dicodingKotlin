@@ -1,5 +1,0 @@
-package konsep
-
-fun main(){
-    
-}
